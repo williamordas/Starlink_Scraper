@@ -6,6 +6,8 @@ This repository extracts daily data-usage values from the saved Starlink HTML pa
 - `scrape_starlink.py` — reads the saved HTML page and writes the CSV
 - `daily_usage.csv` — extracted output
 - `requirements.txt` — Python dependency list
+- `Starlink.html` — The HTML Page where it shows the data usage and extracts it to CSV.
+
 
 ## How to run
 1. Install dependencies:
