@@ -16,7 +16,7 @@ This repository extracts daily data-usage values from the saved Starlink HTML pa
    ```
 2. Run the scraper:
    ```bash
-   python scrape_starlink.py Starlink.html daily_usage.csv
+   python scrape_starlink.py Starlink.html 
    ```
 
 ## Notes
